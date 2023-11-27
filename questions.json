@@ -1,0 +1,52 @@
+{
+"preguntas": [
+{
+"id": 1,
+"pregunta": "¿En que año se creó oficialmente la Republica Popular China?",
+"respuestas": [
+{"texto": "1938", "correcta": false},
+{"texto": "1945", "correcta": false},
+{"texto": "1949", "correcta": true},
+{"texto": "1953", "correcta": false}
+],
+"categoría": "Historia"
+"Explicación": "Oficialmente la Republica Popular China nació en 1949 cuando los Comunista del partido Comunista Chino vencieron en la guerra civil contra los nacionalistas del Koumintang."
+},
+{
+"id": 2,
+"pregunta": "¿Cuantas veces fue campeón del mundo Holanda?",
+"respuestas": [
+{"texto": "1", "correcta": false},
+{"texto": "3", "correcta": false},
+{"texto": "0", "correcta": true},
+{"texto": "2", "correcta": false}
+],
+"categoría": "Deporte",
+"Explicación": "Holanda no ha ganado nunca la Copa del Mundo a pesar de haber llegado a 3 finales."
+},
+{
+"id": 3,
+"pregunta": "¿Quién fue electo presidente de la Republica Argentina en 1983?",
+"respuestas": [
+{"texto": "Eduardo Duhalde", "correcta": false},
+{"texto": "Carlos Menem", "correcta": false},
+{"texto": "Raul Alfonsin", "correcta": true},
+{"texto": "Arturo Umberto Illia", "correcta": false}
+],
+"categoría": "Politica",
+"Explicación": "Raul Alfonsin fue electo presidente de la Republica Argentina en 1983, su mandato duró hasta 1989, aunque tuvo que irse de la presidencia unos meses antes de terminar su mandato."
+},
+{
+"id": 4,
+"pregunta": "¿Quién es el actual presidente electo de Argentina?",
+"respuestas": [
+{"texto": "Sergio Massa", "correcta": false},
+{"texto": "Mauricio Macri", "correcta": false},
+{"texto": "Javier Milei", "correcta": true},
+{"texto": "Patricia Bullrich", "correcta": false}
+],
+"categoría": "Politica",
+"Explicación": "Javier Milei fue electo presidente con el 57% de los votos frente al candidato Kirchnerista Sergio Massa, que sacó el 43%."
+}
+]
+}
